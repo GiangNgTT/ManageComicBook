@@ -9,7 +9,7 @@ public class Admin {
         this.pass_word = pass_word;
     }
 
-
+//Giang23
     public void setUsername(String username) {
 
         this.username = username;
