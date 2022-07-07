@@ -14,4 +14,4 @@
 - Ảnh chụp Entity Relationship Model
 ![](src/main/resources/Entity_Relationship_Model.PNG)
 - Đường link tới video demo (https://youtu.be/64lhpDwO_po)
-- //Giang23
+- 
