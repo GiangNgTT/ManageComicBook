@@ -27,8 +27,6 @@ public class ComicApplication extends Application {
     private Stage stage;
 
 
-//    Giang23
-
     Scene displayLogin(){
         VBox loginPage = new VBox();
         Label lbLogin =new Label("Please enter your username and password");
