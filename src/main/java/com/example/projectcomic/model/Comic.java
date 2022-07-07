@@ -48,7 +48,7 @@ public class Comic {
     }
 
 
-//Giang
+
     public int getId() {
         return id;
     }

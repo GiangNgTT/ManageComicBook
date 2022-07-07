@@ -90,5 +90,4 @@ public class ConnectDatabase {
         return admin;
     }
 
-//Giang23
 }
