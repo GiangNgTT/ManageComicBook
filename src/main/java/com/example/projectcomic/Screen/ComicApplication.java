@@ -26,6 +26,9 @@ public class ComicApplication extends Application {
     private static final ConnectDatabase connect = new ConnectDatabase();
     private Stage stage;
 
+
+//    Giang23
+
     Scene displayLogin(){
         VBox loginPage = new VBox();
         Label lbLogin =new Label("Please enter your username and password");
